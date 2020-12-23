@@ -2,6 +2,7 @@ name: alert_dialogs
 description: Helper methods for showing alert dialogs
 version: 0.1.0
 author: Daniel Garcia
+homepage: 
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
