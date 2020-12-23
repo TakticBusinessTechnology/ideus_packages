@@ -1,8 +1,8 @@
 name: firestore_service
 description: Wrapper for Cloud Firestore
 version: 0.1.0
-author: Andrea Bizzotto
-homepage: https://www.codewithandrea.com
+author: Daniel Garcia
+homepage: 
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
