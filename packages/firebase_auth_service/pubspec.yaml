@@ -1,7 +1,7 @@
 name: firebase_auth_service
 description: Wrapper package for FirebaseAuth
 version: 0.1.0
-author: Daniel Garcia
+author: Daniel Garcia Sanza
 homepage: 
 
 environment:
