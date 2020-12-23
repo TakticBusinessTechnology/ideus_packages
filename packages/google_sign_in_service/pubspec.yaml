@@ -1,8 +1,8 @@
 name: google_sign_in_service
 description: A new Flutter package project.
 version: 0.1.0
-author: Andrea Bizzotto
-homepage: https://www.codewithandrea.com
+author: Daniel Garcia Sanza
+homepage:
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -13,7 +13,7 @@ dependencies:
   firebase_auth_service:
     #path: ../firebase_auth_service
     git:
-      url: https://github.com/bizz84/codewithandrea_flutter_packages
+      url: https://github.com/dgarcia-taktic/ideus_packages
       path: packages/firebase_auth_service
   google_sign_in: ^4.5.1
 
